@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="Pathfinder.h" />
+    <ClInclude Include="PathNode.h" />
+    <ClInclude Include="NodeMap.h" />
+    <ClInclude Include="Path.h" />
+    <ClInclude Include="Vector2i.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Pathfinder.cpp" />
+    <ClCompile Include="NodeMap.cpp" />
+    <ClCompile Include="Path.cpp" />
+  </ItemGroup>
+</Project>
